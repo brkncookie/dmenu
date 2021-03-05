@@ -1,5 +1,5 @@
 # Luke's dmenu
-# Amen altered version
+# altered version
 
 Extra stuff added to vanilla dmenu:
 
